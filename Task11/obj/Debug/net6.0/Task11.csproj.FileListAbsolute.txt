@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Ольга\GeekBrains\1 Четверть\3. C# Первые шаги\Семинар2\Seminary2\Task11\obj\Debug\net6.0\Task11.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Ольга\GeekBrains\1 Четверть\3. C# Первые шаги\Семинар2\Seminary2\Task11\obj\Debug\net6.0\Task11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Ольга\GeekBrains\1 Четверть\3. C# Первые шаги\Семинар2\Seminary2\Task11\obj\Debug\net6.0\Task11.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Ольга\GeekBrains\1 Четверть\3. C# Первые шаги\Семинар2\Seminary2\Task11\obj\Debug\net6.0\Task11.AssemblyInfo.cs
+C:\Users\Admin\Documents\Ольга\GeekBrains\1 Четверть\3. C# Первые шаги\Семинар2\Seminary2\Task11\obj\Debug\net6.0\Task11.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Ольга\GeekBrains\1 Четверть\3. C# Первые шаги\Семинар2\Seminary2\Task11\bin\Debug\net6.0\Task11.exe
+C:\Users\Admin\Documents\Ольга\GeekBrains\1 Четверть\3. C# Первые шаги\Семинар2\Seminary2\Task11\bin\Debug\net6.0\Task11.deps.json
+C:\Users\Admin\Documents\Ольга\GeekBrains\1 Четверть\3. C# Первые шаги\Семинар2\Seminary2\Task11\bin\Debug\net6.0\Task11.runtimeconfig.json
+C:\Users\Admin\Documents\Ольга\GeekBrains\1 Четверть\3. C# Первые шаги\Семинар2\Seminary2\Task11\bin\Debug\net6.0\Task11.dll
+C:\Users\Admin\Documents\Ольга\GeekBrains\1 Четверть\3. C# Первые шаги\Семинар2\Seminary2\Task11\bin\Debug\net6.0\Task11.pdb
+C:\Users\Admin\Documents\Ольга\GeekBrains\1 Четверть\3. C# Первые шаги\Семинар2\Seminary2\Task11\obj\Debug\net6.0\Task11.dll
+C:\Users\Admin\Documents\Ольга\GeekBrains\1 Четверть\3. C# Первые шаги\Семинар2\Seminary2\Task11\obj\Debug\net6.0\refint\Task11.dll
+C:\Users\Admin\Documents\Ольга\GeekBrains\1 Четверть\3. C# Первые шаги\Семинар2\Seminary2\Task11\obj\Debug\net6.0\Task11.pdb
+C:\Users\Admin\Documents\Ольга\GeekBrains\1 Четверть\3. C# Первые шаги\Семинар2\Seminary2\Task11\obj\Debug\net6.0\Task11.genruntimeconfig.cache
+C:\Users\Admin\Documents\Ольга\GeekBrains\1 Четверть\3. C# Первые шаги\Семинар2\Seminary2\Task11\obj\Debug\net6.0\ref\Task11.dll
